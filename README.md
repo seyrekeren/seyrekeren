@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Software Engineering in Dogus University (3),<br>🤖 I am involved in the UAV project with teknofest.
+👨‍🎓 Software Engineering in Dogus University (4),<br>🤖 I am involved in the UAV project with teknofest.
 
 
 ## 🌐 Socials:
